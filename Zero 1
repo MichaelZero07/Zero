@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta name="viewport" content="width=device-width">
+    <meta charset="UTF-8"/>
+    <title>这是一个测试代码</title>
+</head>
+<body>
+
+<p><h1>这是第一段</h1></p>
+<p class="editor-note"><h2>这是第二段</h2></p>
+<p>这是第<strong><p3>三</p3></strong>段</p>
+
+<a href="https://zh.wikipedia.org/wiki/%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88">
+    <img src="photo/123.jpg" alt="这是一张图片" width="200" height="150"/>
+    <img src="photo/123.jpg" alt="这是一个限定高度的等比例缩放的图片" width="100%" height="150"/>
+</a>
+
+<p>以下一个列表</p>
+<ul>
+    <li>这是一</li>
+    <li>这是二</li>
+    <li>这是三</li>
+</ul>
+<p>列表结束</p>
+
+<a href="https://www.baidu.com/">这是一个百度链接</a>
+
+<p>以下是表格</p>
+
+<table>
+    <tr>
+        <td>这是单元格1</td>
+        <td>这是单元格2</td>
+    </tr>
+    <tr>
+        <td>这是第二行单元格</td>
+    </tr>
+</table>
+
+<form>
+    <input type="text" placeholder="这是一个表单输入框">
+    <input type="submit" value="这是一个提交按钮">
+</form>
+
+</body>
+</html>
